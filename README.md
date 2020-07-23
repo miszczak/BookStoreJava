@@ -10,3 +10,5 @@
 ***Adding a 5th line, with application-general.yml using CxXml instead of Jira***
 
 ***Adding a 6th line, with correction of CxXml to cx-xml within the yml file***
+
+***Adding a 7th line, with putting back the cx-xml entry with minor change within the yml file***
