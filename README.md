@@ -12,3 +12,5 @@
 ***Adding a 6th line, with correction of CxXml to cx-xml within the yml file***
 
 ***Adding a 7th line, with putting back the cx-xml entry with minor change within the yml file***
+
+***Adding a 8th line, using this comment within the commit message to see if it will show within Cx***
