@@ -20,3 +20,5 @@
 ***Adding a 10th line for csv output, using this comment within the commit message to see if it will show within Cx***
 CxFlow service has been restarted after configuration changed ( from CxXml output to Csv output)
 Correcting a typo within the yml configuration file.
+
+***Adding a 11th line back to the xml output, using this comment within the commit message to see if it will show within Cx***
