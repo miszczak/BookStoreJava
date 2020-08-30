@@ -26,7 +26,7 @@ public class AdminMenu_jsp extends HttpJspBase {
 //Database connection string
 
   static final String DBDriver  ="";
-  static final String strConn   ="";
+  static final String strConn   ="empty";
   static final String DBusername="";
   static final String DBpassword="";
 
