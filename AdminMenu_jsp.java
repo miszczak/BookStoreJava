@@ -26,7 +26,7 @@ public class AdminMenu_jsp extends HttpJspBase {
 //Database connection string
 
   static final String DBDriver  ="";
-  static final String strConn   ="empty";
+  static final String strConn   ="";
   static final String DBusername="";
   static final String DBpassword="";
 
@@ -98,7 +98,8 @@ public class AdminMenu_jsp extends HttpJspBase {
     for(int j = 0; j < count; j++) {
       aFields[j] = metaData.getColumnLabel(j+1);
     }
-    return aFields;
+    //return aFields;
+    return "";
   }
 
   java.util.Hashtable getRecordToHash ( java.sql.ResultSet rs, java.util.Hashtable rsHash, String[] aFields ) throws java.sql.SQLException {
