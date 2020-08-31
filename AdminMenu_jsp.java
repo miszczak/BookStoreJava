@@ -98,8 +98,7 @@ public class AdminMenu_jsp extends HttpJspBase {
     for(int j = 0; j < count; j++) {
       aFields[j] = metaData.getColumnLabel(j+1);
     }
-    //return aFields;
-    return "";
+    return aFields;
   }
 
   java.util.Hashtable getRecordToHash ( java.sql.ResultSet rs, java.util.Hashtable rsHash, String[] aFields ) throws java.sql.SQLException {
