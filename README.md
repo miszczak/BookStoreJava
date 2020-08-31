@@ -22,3 +22,6 @@ CxFlow service has been restarted after configuration changed ( from CxXml outpu
 Correcting a typo within the yml configuration file.
 
 ***Adding a 11th line back to the xml output, using this comment within the commit message to see if it will show within Cx***
+
+***Adding a 12th line using csv file format output with incremental scan mode, using this comment within the commit message to see if it will show within Cx***
+
